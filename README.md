@@ -15,7 +15,7 @@ Uma aplicação desenvolvida com **VUE.JS**, onde o usuário poderá fazer o reg
 
 ## Tela da Aplicação
 
-![Tela da Aplicação](https://media.giphy.com/media/zjvyCGhsFeOT8KLBwz/source.gif)
+![Tela da Aplicação](https://media.giphy.com/media/zjvyCGhsFeOT8KLBwz/giphy.gif)
 
 
 
