@@ -56,7 +56,7 @@
     }
   },
   "lint-staged": {
-    "*.ts": [
+    "*.vue": [
       "eslint ./src/*.vue --fix"
     ]
   }
